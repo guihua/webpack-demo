@@ -1,0 +1,28 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "A simple webpack example",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guihua/webpack-demo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "guihua.pgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guihua/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/guihua/webpack-demo#readme",
+  "devDependencies": {
+    "css-loader": "^0.26.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
